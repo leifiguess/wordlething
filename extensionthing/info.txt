@@ -1,0 +1,24 @@
+to do:
+
+
+STYLING:
+improve CSS / styling
+change status names
+improve UI
+improve icon
+
+FEATURES:
+add awnsers
+add difficulty calculator
+add website filter for wordle
+
+OTHER:
+create github repository 
+
+
+
+
+time:
+
+2/24/22: 5 hours
+
